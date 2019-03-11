@@ -1,6 +1,6 @@
 # WordpressDigitalOceanScript
 
-To install Joomla in Amazon Linux AMI copy the code in JoomlaInstall.sh and run it in the server using the command.
+To install Wordpress in DigitalOcean's CentOS7 server copy the code in https://raw.githubusercontent.com/siru88/WordpressDigitalOceanScript/master/DigitalOceanWordPressInstall.sh and run it in the server using the command.
 
 chmod +x DigitalOceanWordPressInstall.sh
 
