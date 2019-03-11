@@ -2,6 +2,9 @@
 
 To install Wordpress in DigitalOcean's CentOS7 server copy the code in https://raw.githubusercontent.com/siru88/WordpressDigitalOceanScript/master/DigitalOceanWordPressInstall.sh and run it in the server using the command.
 
+
+wget https://raw.githubusercontent.com/siru88/WordpressDigitalOceanScript/master/DigitalOceanWordPressInstall.sh 
+
 chmod +x DigitalOceanWordPressInstall.sh
 
 /bin/bash DigitalOceanWordPressInstall.sh
